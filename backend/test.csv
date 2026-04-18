@@ -1,0 +1,4 @@
+title,description,latitude,longitude,imageUrl,type
+IMINT Data,Satellite image,28.61,77.23,https://picsum.photos/200?random=1,IMINT
+HUMINT Data,Field report,28.7,77.1,https://picsum.photos/200?random=2,HUMINT
+OSINT Data,Online info,28.5,77.3,https://picsum.photos/200?random=3,OSINT
